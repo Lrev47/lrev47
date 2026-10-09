@@ -19,10 +19,13 @@ I build the automation platforms and internal tools that businesses run on. I mo
 | Project | What it does | Built with |
 |---|---|---|
 | **Enterprise Automation Platform** *(private, employer)* | Queue-based RPA orchestration: dispatcher, unattended bots, retries, dead-letter, audit trail, with a swappable RPA engine | Power Automate · PAD · Dataverse · SQL Server · React · TypeScript · Entra ID |
+| **StudyFlux** | AI study platform: turns uploaded material into study content with OpenAI generation and pgvector search. Includes background jobs, Stripe subscriptions, per-tier AI credit metering and exports | React · TypeScript · Vite · Redux Toolkit · FastAPI · SQLAlchemy · Celery · Redis · PostgreSQL + pgvector |
+| **Dispatch Intelligence Platform** | GIS field-operations app: job dispatch and optimized technician routing on a 7-service Docker stack with self-hosted map and routing services | Python · Docker Compose · Valhalla · PostGIS · vector maps |
 | **[Stepping Stone AI](https://stepping-stone-ai.vercel.app)** | Turns any goal into an interactive skill tree. AI breaks work into steps, tracks progress and branches new paths when you're stuck | FastAPI · PostgreSQL · React · TypeScript · React Flow · OpenAI |
-| **Dispatch Intelligence Platform** | GIS field-operations app: job dispatch and optimized technician routing on self-hosted map and routing services | Python · Docker Compose · Valhalla · vector maps |
-| **Counterfactual City** | Urban-resilience digital twin: simulates cascading hazards, compares policy plans and runs a budget-constrained optimizer | FastAPI · React · 3D · simulation & optimization |
-| **[LeadEngine](https://lead-engine-frontend-lake.vercel.app)** | AI lead discovery: an iterative research engine, evidence-based scoring and generated intelligence briefs | FastAPI · Next.js · LLM APIs |
+| **SynthLab** | AI media-generation platform: a Next.js app driving 17 generation workflows on a self-hosted n8n/Traefik stack. Flows are being migrated to a Rust engine, with zero-downtime proxy cutover and instant rollback | Next.js · Drizzle · Postgres · n8n · Rust · Traefik · S3 · Docker |
+| **[LeadEngine](https://lead-engine-frontend-lake.vercel.app)** | Evidence-first B2B lead generation: AI researches, verifies and adversarially "kills" leads, so every claim that ships is cited | FastAPI · PostgreSQL · Redis/arq · Claude API · Next.js |
+
+<sub>Source code for these projects is private. I'm happy to walk through any of them in a conversation or demo.</sub>
 
 ---
 
