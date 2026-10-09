@@ -23,7 +23,7 @@ I build the automation platforms and internal tools that businesses run on. I mo
 | **Dispatch Intelligence Platform** | GIS field-operations app: job dispatch and optimized technician routing on a 7-service Docker stack with self-hosted map and routing services | Python · Docker Compose · Valhalla · PostGIS · vector maps |
 | **[Stepping Stone AI](https://stepping-stone-ai.vercel.app)** | Turns any goal into an interactive skill tree. AI breaks work into steps, tracks progress and branches new paths when you're stuck | FastAPI · PostgreSQL · React · TypeScript · React Flow · OpenAI |
 | **SynthLab** | AI media-generation platform: a Next.js app driving 17 generation workflows on a self-hosted n8n/Traefik stack. Flows are being migrated to a Rust engine, with zero-downtime proxy cutover and instant rollback | Next.js · Drizzle · Postgres · n8n · Rust · Traefik · S3 · Docker |
-| **[LeadEngine](https://lead-engine-frontend-lake.vercel.app)** | Evidence-first B2B lead generation: AI researches, verifies and adversarially "kills" leads, so every claim that ships is cited | FastAPI · PostgreSQL · Redis/arq · Claude API · Next.js |
+| **LeadEngine** | Cited company research for B2B sales: a Claude research loop keeps verbatim source "receipts" and only accepts claims that match them exactly, so every line of the profile is cited. Lead discovery is in progress | FastAPI · PostgreSQL · Redis/arq · Claude API · Next.js |
 
 <sub>Source code for these projects is private. I'm happy to walk through any of them in a conversation or demo.</sub>
 
