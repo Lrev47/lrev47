@@ -28,10 +28,10 @@ I build the automation platforms and internal tools that businesses run on. I mo
 
 ### Toolkit
 
-**Automation:** Power Automate (cloud & Desktop) · unattended RPA · workflow orchestration
-**Development:** TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · VBA
-**Data:** SQL Server · Dataverse · PostgreSQL · Power Query · Power BI · Excel
-**Platform:** Microsoft Entra ID · SharePoint · REST APIs · Docker · Git · Vercel
+- **Automation:** Power Automate (cloud & Desktop) · unattended RPA · workflow orchestration
+- **Development:** TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · VBA
+- **Data:** SQL Server · Dataverse · PostgreSQL · Power Query · Power BI · Excel
+- **Platform:** Microsoft Entra ID · SharePoint · REST APIs · Docker · Git · Vercel
 
 ---
 
