@@ -28,10 +28,17 @@ I build the automation platforms and internal tools that businesses run on. I mo
 
 ### Toolkit
 
-- **Automation:** Power Automate (cloud & Desktop) · unattended RPA · workflow orchestration
-- **Development:** TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · VBA
-- **Data:** SQL Server · Dataverse · PostgreSQL · Power Query · Power BI · Excel
-- **Platform:** Microsoft Entra ID · SharePoint · REST APIs · Docker · Git · Vercel
+**Automation & Microsoft platform**  
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge) ![Power Automate Desktop](https://img.shields.io/badge/Power%20Automate%20Desktop-0066FF?style=for-the-badge) ![Dataverse](https://img.shields.io/badge/Dataverse-088142?style=for-the-badge) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge) ![Excel & Power Query](https://img.shields.io/badge/Excel%20%26%20Power%20Query-217346?style=for-the-badge) ![VBA](https://img.shields.io/badge/VBA-4B5563?style=for-the-badge) ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge) 
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge) 
+
+**Frontend & backend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+
+**Data & DevOps**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
 ---
 
